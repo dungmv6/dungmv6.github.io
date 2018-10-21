@@ -27,5 +27,6 @@ English: working proficiency (TOIEC )
 Hanoi University of Technology, 1 Dai Co Viet Road, Hanoi	(2014 - 2019)
 
 School of Electronics and Telecommunications
+
 Major: Electronics Engineering - Computer Engineering
 ### Honors and Awards
