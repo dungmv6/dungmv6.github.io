@@ -6,13 +6,13 @@
 ### Skills
 - Hardware Foundation: STM32, (Kintex)Xilinx, (UltraScale)Xilinx, Baseband(NXP), PCI Express, HDMI,..
 - Laguages: C,C++
-- Platforms: Altium Designer, Proteus, ANSYS Electronic, Filter Pro, KiCad, 
-- Instrumentation: Spectrum analyzer, Oscilloscope, Vector signal generator
+- ToolChain: Altium Designer, Proteus, ANSYS Electronic, Filter Pro, KiCad, 
+- Instrumentation: Spectrum analyzer, Oscilloscope, Vector signal generator, Logic Analyzer
+
 
 ### Experiences
 ***Military Communication Center, Viettel R&D Institute***
 (Intership May 2018 to October 2018)
-
 ***Team Leader SANSLAB***
 
 
@@ -22,9 +22,9 @@
 
 
 ### Languages
-English: working proficiency (TOIEC )
+English: working proficiency (TOEIC 430)
 ### Education
-Hanoi University of Technology, 1 Dai Co Viet Road, Hanoi	(2014 - 2019)
+Hanoi University of Technology, 1 Dai Co Viet Road, Hanoi	(2014 - 2020)
 
 School of Electronics and Telecommunications
 
