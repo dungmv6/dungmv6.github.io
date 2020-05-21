@@ -4,25 +4,28 @@
 [RESUME](https://www.facebook.com/maidung1709)
 
 ### Skills
-- Hardware Foundation: STM32, (Kintex)Xilinx, (UltraScale)Xilinx, Baseband(NXP), PCI Express, HDMI,..
+- Hardware Foundation: AVR, PIC, ARM (STM32, Tiva C), (Kintex)Xilinx, Sitara (AM572X), Highspeed Layout, RF Layout..
 - Laguages: C,C++
-- ToolChain: Altium Designer, Proteus, ANSYS Electronic, Filter Pro, KiCad, 
-- Instrumentation: Spectrum analyzer, Oscilloscope, Vector signal generator, Logic Analyzer
+- ToolChain: Altium Designer, ANSYS Electronic, KiCad, Feko Simulator, Optenni Labs
+- 
+- Instrumentation: Spectrum analyzer, Oscilloscope, Vector signal generator, Logic Analyzer, Vector Network Analyzer.
 
 
 ### Experiences
+***VietNam Post and Telecommunication Industry Technology JSC***
+(October 2019 to present)
+- Design 
 ***Military Communication Center, Viettel R&D Institute***
 (Intership May 2018 to October 2018)
-***Team Leader SANSLAB***
+- Designed and checked Schematic  
+***Team Leader Hardware SANSLAB***
 
-
-### Project
 
 
 
 
 ### Languages
-English: working proficiency (TOEIC 430)
+English: working proficiency (TOEIC 730)
 ### Education
 Hanoi University of Technology, 1 Dai Co Viet Road, Hanoi	(2014 - 2020)
 
@@ -30,3 +33,5 @@ School of Electronics and Telecommunications
 
 Major: Electronics Engineering - Computer Engineering
 ### Honors and Awards
+- Second prize in the competition for scientific research students (Hanoi University of Technology 2019)
+- Consolation prizes in Inno Work 2019 (Avantech VietNam Organzation)
