@@ -1,5 +1,11 @@
+---
+layout: page
+title: Resume
+permalink: /resume/
+---
+
 # MAI VAN DUNG
-311 Ngo Quynh Street, Hai Ba Trung, Ha Noi
+22 Ton That Tung Street, Dong Da, Ha Noi
 
 [RESUME](https://www.facebook.com/maidung1709)
 
@@ -13,8 +19,8 @@
 
 ### Experiences
 ***VietNam Post and Telecommunication Industry Technology JSC***
-(October 2019 to present)
-- Design 
+(October 2019 to April 2021)
+
 ***Military Communication Center, Viettel R&D Institute***
 (Intership May 2018 to October 2018)
 - Designed and checked Schematic  
@@ -25,7 +31,7 @@
 
 
 ### Languages
-English: working proficiency (TOEIC 730)
+English: TOEIC IIG 650
 ### Education
 Hanoi University of Technology, 1 Dai Co Viet Road, Hanoi	(2014 - 2020)
 
