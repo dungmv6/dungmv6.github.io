@@ -1,9 +1,3 @@
----
-layout: page
-title: Resume
-permalink: /resume/
----
-
 # MAI VAN DUNG
 22 Ton That Tung Street, Dong Da, Ha Noi
 
